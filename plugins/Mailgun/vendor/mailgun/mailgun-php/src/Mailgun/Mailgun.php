@@ -73,7 +73,7 @@ class Mailgun
     public function __construct(
         $apiKey = null, /* Deprecated, will be removed in 3.0 */
         HttpClient $httpClient = null,
-        $apiEndpoint = 'api.mailgun.net', /* Deprecated, will be removed in 3.0 */
+        $apiEndpoint = 'api.eu.mailgun.net', /* Deprecated, will be removed in 3.0 */
         Hydrator $hydrator = null,
         RequestBuilder $requestBuilder = null
     ) {
