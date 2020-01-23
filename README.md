@@ -2,7 +2,7 @@
 
 ## Description ##
 
-This plugin sends emails through Mailgun using their API.
+This plugin sends emails through Mailgun using their API. Forked to use EU endpoint (api.eu.mailgun.net).
 
 ## Installation ##
 
